@@ -6,7 +6,7 @@ From breakfast classics to innovative dinner ideas, we've got your egg cravings 
 
 ## How to View
 
-1. Just click this [live page.]()
+1. Just click this [live page.](https://chessurisme-the-odin-projects.github.io/recipes/)
 2. Learn and egg-joy! 😁
 
 ## Resources
